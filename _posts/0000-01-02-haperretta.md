@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to GitHub Teacher's !"
 ---
-this is my page and slide 
+this is my awesome slide 
 Use the right arrow to begin!
